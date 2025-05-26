@@ -7,19 +7,19 @@ a {
 a:hover {
   text-decoration: none;
 }
-
+/* Checkpoint 1 */
 a:visited {
   color: #466995;
 }
-
+/* Checkpoint 2 */
 .question-link:visited {
   color: #ffffff;
 }
-
+/* Checkpoint 3 */
 a:active {
   color: #DBE9EE;
 }
-
+/* Checkpoint 4 */
 a:active, .question-link:active {
   color: #DBE9EE;
 }
